@@ -12,7 +12,6 @@ int main()
 {
   int numInputs,currInput,z;
   cin >> numInputs;
-  cout << "Number of Inputs: "<< numInputs<< endl;
   for(int i = 1; i<=numInputs; i++)
   {
     cin >> currInput;
